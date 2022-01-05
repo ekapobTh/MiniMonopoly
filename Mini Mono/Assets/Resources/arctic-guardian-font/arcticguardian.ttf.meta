@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6173f510097553b45afd25045956ae8d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arctic Guardian
+  fontNames:
+  - Arctic Guardian
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 16fac1932628dc44bbc7f343659703f1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

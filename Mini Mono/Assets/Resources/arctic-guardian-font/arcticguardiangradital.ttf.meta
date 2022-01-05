@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f7b1aaaf8459fcf4cb8c4d8a629c80c1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arctic Guardian Gradient Italic
+  fontNames:
+  - Arctic Guardian Gradient Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c26bbfc6918c92d428fb7ffc419d17f9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

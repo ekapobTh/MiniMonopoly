@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a4f801184e9086a44967aaf60fc6338a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arctic Guardian Leftalic
+  fontNames:
+  - Arctic Guardian Leftalic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 06752b990ac0e9d4abd98dde899eec83, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

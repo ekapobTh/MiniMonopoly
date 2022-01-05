@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a1da756dd7f80eb428b014d6e70b4373
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arctic Guardian Semi-Italic
+  fontNames:
+  - Arctic Guardian Semi-Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5ae19607e3294ef4c96605b53b21224d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
